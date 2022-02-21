@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SarahiMerazMeza, you can call me Sari
-- 👀 I’m interested in frontend web development!
-- 🌱 I’m currently learning a lot of CSS3 and HTML5
+Wait for the signal and I'll meet you after dark
 
 <!---
 SarahiMerazMeza/SarahiMerazMeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
